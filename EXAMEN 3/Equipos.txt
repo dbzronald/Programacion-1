@@ -1,0 +1,2 @@
+Equipo: Real Madrid. Cantidad de jugadores : 1
+Cristiano: Numero 7, juega en la posicion D.  mide 175 cm, pesa:75 kg.
